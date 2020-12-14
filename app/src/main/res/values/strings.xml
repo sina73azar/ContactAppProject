@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">دفترچه تلفن</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_text">اضافه کردن</string>
+    <string name="text_tv_list_empty">هیچ شماره ای در دفتر شما وجود ندارد</string>
+</resources>
